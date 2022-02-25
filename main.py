@@ -4,4 +4,6 @@ for numbers in range (1,81):
     if numbers %3!=0:
         print(numbers)
 print("brawo Ty")
+car_list = ["honda", "toyota", "mazda"]
 
+            
